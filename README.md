@@ -1,0 +1,2 @@
+# Coppercoin-Bootstrap
+Bootstrap file
